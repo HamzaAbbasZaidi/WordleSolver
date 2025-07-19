@@ -13,4 +13,4 @@ The program takes these four 5-digit codes (one per guess word) and instantly te
 
 ### Why I made this
 
-I built this as a practice tool to help me learn and recognize common patterns in Duotrigordle. By understanding how certain words react to these four consistent probes, you can start building intuition and solving faster.
+I built this as a practice tool to help me learn and recognize common patterns in Duotrigordle. By understanding how certain words react to these four guesses, you can start being able to deduce what word it is pretty quickly.
