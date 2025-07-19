@@ -1,4 +1,4 @@
-## Duotrigordle Solver
+## Duotrigordle Practice Tool
 
 This is a Wordle-style solver specifically designed for Duotrigordle (before the word list changed 😔). It uses a fixed set of four guess words - 'durst', 'bogle', 'chimp', and 'fawny'. These words were chosen because the combination of colors (green, yellow, gray) they produce on any Duotrigordle word is almost always unique.
 
